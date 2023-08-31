@@ -1,1 +1,1 @@
-console.log('config.js' 'update')
+console.log('config.js' 'update' 'index')
