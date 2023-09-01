@@ -1,1 +1,1 @@
-console.log('config.js' 'update' 'india')
+console.log('config.js' 'update' )
