@@ -1,1 +1,1 @@
-console.log('change' 'merge' 'canada');
+console.log('change' 'merge' 'canada' 'france' 'china');
